@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Parada</h1>
 <h3 align="center">Passionate softwear tester </h3>
+<img aling="center" width="500" height="500"  alt="Test" src="https://media.tenor.com/ARkcuYFJVesAAAAd/unit-testingnn.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturparada&label=Profile%20views&color=0e75b6&style=flat" alt="arturparada" /> </p>
 
