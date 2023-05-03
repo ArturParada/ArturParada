@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nokia**
 
-- 🌱 I’m  learning **JS/TS Cypress **
+- 🌱 I’m  learning **JS/TS Cypress**
 
 - 📫 How to reach me **paradaartur@gmail.com**
 
